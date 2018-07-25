@@ -1,3 +1,1 @@
-# Notes
-Write something...
-怎么用呢这个github
+#Note
