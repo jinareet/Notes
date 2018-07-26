@@ -104,4 +104,5 @@ struct malloc_chunk{
 
 
 ####Large Bins
++ Large bin中的chunk可能在两个链表中，（fd bk链表和fd_nextsize链表）
 
